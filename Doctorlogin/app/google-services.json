@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016904250133",
+    "firebase_url": "https://hackeam18.firebaseio.com",
+    "project_id": "hackeam18",
+    "storage_bucket": "hackeam18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016904250133:android:3a3c148f31f6654a",
+        "android_client_info": {
+          "package_name": "com.example.ayush.doctorlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016904250133-t7b84blt4cpqcpne58h8bpqfrobdrd0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayush.doctorlogin",
+            "certificate_hash": "bb6c578947773e0991fd317e159f3d1cf4a6894a"
+          }
+        },
+        {
+          "client_id": "1016904250133-qh14bt3atsied3apcf5s1re5r39chgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXWNF5y6WdF2ggLc9GVlnHO9MzwvmmO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016904250133-qh14bt3atsied3apcf5s1re5r39chgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
